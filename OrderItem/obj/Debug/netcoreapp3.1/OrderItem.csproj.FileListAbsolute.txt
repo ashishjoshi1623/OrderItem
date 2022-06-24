@@ -21,3 +21,27 @@ C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderI
 C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
 C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
 C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.StaticWebAssets.xml
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.exe
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.deps.json
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.json
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.dev.json
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.dll
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.pdb
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfoInputs.cache
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfo.cs
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CoreCompileInputs.cache
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.RazorTargetAssemblyInfo.cache
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
+D:\study material\cloud practice (1) (1)\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
